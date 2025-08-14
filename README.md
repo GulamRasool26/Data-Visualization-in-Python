@@ -64,7 +64,7 @@ By working through these labs, I practiced and strengthened the following skills
 
 Feel free to connect for collaboration or questions!
 
-📧 [Email](gulamrasool2026@gmail.com)
+📧 gulamrasool2026@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/gulam-rasool-02453a303/)
 🐍 [GitHub](https://github.com/GulamRasool26)
 
